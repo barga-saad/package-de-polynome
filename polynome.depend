@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1639568380 source:d:\aiac cour\langage c++\mes proget\polynome\polynome\main.cpp
+	"poly.h"
+
+1639568863 d:\aiac cour\langage c++\mes proget\polynome\polynome\poly.h
+	<iostream>
+
+1639569043 source:d:\aiac cour\langage c++\mes proget\polynome\polynome\poly.cpp
+	"poly.h"
+
